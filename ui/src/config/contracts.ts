@@ -1,6 +1,6 @@
 import type { Address } from 'viem';
 
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000' as Address;
+export const CONTRACT_ADDRESS = '0xe66AFEB2c48FdaD2b103cdB4e5b4c5023288A902' as Address;
 
 export const CONTRACT_ABI = [
   {
